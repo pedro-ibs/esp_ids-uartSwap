@@ -28,7 +28,7 @@
 #define CONFIG_DISABLE					( 0 							)
 #define CONFIG_ENABLE					( 1 							)
 
-#define CONFIG_FirmwareVersion				( "MA_023CTH"						)
+#define CONFIG_FirmwareVersion				( "usw_0000"						)
 
 /**
  *  ########################################################################################################################################################
@@ -38,10 +38,8 @@
  * Parâmetros selecionáveis
  * 
  */
-#define CONFIG_ApnNanocomm                              ( 1							)
-#define CONFIG_ApnTelehelp                              ( 2							)
+
  /* ********************************************************************************************************************************************************/
-#define CONFIG_ApnMode					( CONFIG_ApnTelehelp					)
 
 
 #endif /* config_H_ */
